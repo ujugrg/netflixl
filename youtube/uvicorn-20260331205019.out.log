@@ -1,8 +1,0 @@
-INFO:     127.0.0.1:58176 - "GET /health HTTP/1.1" 200 OK
-INFO:     127.0.0.1:59063 - "GET /liked HTTP/1.1" 502 Bad Gateway
-INFO:     127.0.0.1:59062 - "GET /search?q=arijit HTTP/1.1" 200 OK
-INFO:     127.0.0.1:50639 - "GET /liked HTTP/1.1" 502 Bad Gateway
-INFO:     127.0.0.1:50639 - "GET / HTTP/1.1" 200 OK
-INFO:     127.0.0.1:50639 - "GET /frontend/style.css HTTP/1.1" 304 Not Modified
-INFO:     127.0.0.1:51225 - "GET /frontend/app.js HTTP/1.1" 304 Not Modified
-INFO:     127.0.0.1:51225 - "GET /liked HTTP/1.1" 502 Bad Gateway
